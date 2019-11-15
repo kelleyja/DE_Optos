@@ -5,4 +5,5 @@ The Opto Sensors for the ball lock in Data East/Sega Maverick are known to be pr
 
 The 2 components required are 
 Magnasphere Corp / MG-A2-1.5-N PART: 735-1000-ND
+
 Molex / 0022124022 PART: WM13445-ND

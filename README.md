@@ -8,3 +8,6 @@ The 2 components required are
 Magnasphere Corp / MG-A2-1.5-N PART: 735-1000-ND
 
 Molex / 0022124022 PART: WM13445-ND
+
+
+UPADTE - YOU'LL need a diode inline with the positive lead, splice it into the wire 
